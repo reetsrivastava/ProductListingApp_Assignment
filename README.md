@@ -1,5 +1,7 @@
 # Product Listing App
 
+https://cottage-product-shop.vercel.app/
+
 A modern, responsive e-commerce product listing application built with Next.js(React Framework), TypeScript, and Tailwind CSS.
 
 ## 🚀 Project Type
@@ -9,7 +11,7 @@ A modern, responsive e-commerce product listing application built with Next.js(R
 - **Styling**: Tailwind CSS v4
 - **State Management**: React Context API
 - **API**: Fake Store API (https://fakestoreapi.com)
-- **Deployment**: Vercel
+- **Deployment**: Vercel https://cottage-product-shop.vercel.app/
 
 ## 🛠️ How to Build and Deploy
 
@@ -107,19 +109,25 @@ A modern, responsive e-commerce product listing application built with Next.js(R
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![image](https://github.com/user-attachments/assets/637f5e8a-d57f-4121-be4b-f028f7a8989b)
+
 *Product listing with filters and pagination*
 
 ### Product Details
-![Product Details](screenshots/product-details.png)
+![image](https://github.com/user-attachments/assets/a9c3643b-6c8f-40ec-81af-03eea2f48ed0)
+
 *Individual product page with detailed information*
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
+![image](https://github.com/user-attachments/assets/1ecbed37-db44-42dc-9240-6abdfed85807)
+
 *Cart management page with quantity controls*
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
+![image](https://github.com/user-attachments/assets/a8dbb407-2b0c-4bc2-ba8d-07b14be573db)
+![image](https://github.com/user-attachments/assets/c53b3d46-6a51-4819-9c7f-a415ccecba93)
+![image](https://github.com/user-attachments/assets/83301c11-cd5f-4a5f-a13c-f5c3435d8383)
+
 *Responsive design on mobile devices*
 
 ## 🏗️ Project Structure
@@ -188,4 +196,4 @@ The application integrates with the [Fake Store API](https://fakestoreapi.com) t
 
 ---
 
-**Note**: This is a demo application using the Fake Store API. In a production environment, you would integrate with a real e-commerce backend API.
+**Note**: This is a demo application using the Fake Store API for an assignment. In a production environment, you would integrate with a real e-commerce backend API.
